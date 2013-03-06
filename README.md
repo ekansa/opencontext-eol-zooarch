@@ -11,4 +11,5 @@ UBERON (http://uberon.org), and a Zooarchaeology specific ontology maintained by
 (http://opencontext.org/vocabularies/open-context-zooarch).
 
 Most of the data are not yet ready for official publication, but will be published under
-a Creative Commons Attribution license by May 2013.
+a Creative Commons Attribution license by May 2013. Please see here for more about this project:
+http://alexandriaarchive.org/2012/09/25/aai-wins-eol-computable-data-challenge/
