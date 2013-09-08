@@ -24,7 +24,7 @@ by Open Context (http://opencontext.org).
 
 Citation and links to additional information, and notes for each data table are below:
 
-(1) "EOL-primary-1.csv", "EOL-primary-2.csv", "EOL-primary-3.csv", "EOL-primary-4.csv" (Data in 4 files, smaller than GitHub filesize limits)
+(1) "EOL-primary-1.csv", "EOL-primary-2.csv", "EOL-primary-3.csv", "EOL-primary-4.csv", "EOL-primary-5.csv", "EOL-primary-6.csv", "EOL-primary-7.csv", "EOL-primary-8.csv" (Data in 8 files, smaller than GitHub filesize limits)
 Nerissa Russell, Katheryn Twiss, Hijkle Buitenhuis, Sheelagh Frame, Lisa Yeomans, Louise Martin, Arek Marciniak, Kamilla Pawlowska, Claire Christensen, David Orton, Arzu Demirergi, Benjamin S. Arbuckle, Stephanie Meese, Levent Atıcı, Canan Çakırlar, Sarah Whitcher Kansa, Liz Henton, Banu Aydinuloglu, Alfred Galik, Adam Watson, Denise Carruthers, Ian Cameron, Rhian Mayon-White, Amanda Erwin, Vesna Dimitrijevic, Rebecca Daly, Nobs Symmons, Serkan Yeni, Chris Hills, Hijlke Buitenhuis, Leola Leblanc, Dusan Boric, Adrienne Powell (2013-08-18) "EOL Computational Data Challenge: Primary Zooarchaeology Dataset" Benjamin S. Arbuckle, David Orton, Hijkle Buitenhuis, Arek Marciniak, Levent Atici, Canan Çakırlar, Alfred Galik, Denise Carruthers, Sarah Whitcher Kansa (Eds). Open Context. <http://opencontext.org/tables/f07bce4fb08cfe926505c9e534d89a09> <http://dx.doi.org/10.6078/M75H7D6D>
 
 (2) "EOL-metrics.csv"
