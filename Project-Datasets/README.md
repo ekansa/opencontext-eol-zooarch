@@ -43,7 +43,7 @@ Arek Marciniak, Kamilla Pawlowska, Nerissa Russell, Katheryn Twiss, Louise Marti
 Arek Marciniak, Kamilla Pawlowska, Nerissa Russell, Katheryn Twiss, Liz Henton, Louise Martin, David Orton, Arzu Demirergi, Banu Aydinuloglu, Claire Christensen, Rebecca Daly, Levent Atıcı, Sheelagh Frame, Ian Cameron (2013-08-17) "Çatalhöyük Area TP Zooarchaeological Tooth Wear / Aging Dataset" Arek Marciniak (Eds). Open Context. <http://opencontext.org/tables/3754500d16da4740c535afe2ad359304> <http://dx.doi.org/10.6078/M7JS9NCG>
 
 (7) "ilipinar.csv"
-Hijkle Buitenhuis (2013-08-17) "Ilıpınar Zooarchaeology Main Zooarchaeological Dataset" Hijkle Buitenhuis (Eds). Open Context. <http://opencontext.org/tables/3746e117f8bd3c648568cdd59d00272c> <http://dx.doi.org/10.6078/M72R3PM2>
+Hijlke Buitenhuis (2013-08-17) "Ilıpınar Zooarchaeology Main Zooarchaeological Dataset" Hijlke Buitenhuis (Eds). Open Context. <http://opencontext.org/tables/3746e117f8bd3c648568cdd59d00272c> <http://dx.doi.org/10.6078/M72R3PM2>
 
 (8) "ulucak.csv"
 Canan Çakırlar (2013-08-17) "Ulucak Höyük Main Zooarchaeological Dataset" Canan Çakırlar (Eds). Open Context. <http://opencontext.org/tables/846e3cd8ad23c8b4ca5ed378b4e1672e> <http://dx.doi.org/10.6078/M79884XQ>
