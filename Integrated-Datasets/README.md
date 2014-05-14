@@ -33,5 +33,17 @@ Benjamin S. Arbuckle, Hijlke Buitenhuis, Nerissa Russell, Sheelagh Frame, Sarah 
 (3) "EOL-summary-taxa.csv"
 This is a dataset derived from the EOL-primary data <http://opencontext.org/tables/f07bce4fb08cfe926505c9e534d89a09> table. This table summarizes biological taxa for the different sites represeted in the EOL Computable Data Challenge project. For  Erbaba Höyük and Suberde Zooarchaeology data, only contexts with "All Taxa" sampled where included in this summary (see: http://opencontext.org/properties/59D0E59E-0104-4D2A-36A1-E256C35A97EC), and similarly for the Köşk Höyük Faunal Data (see: http://opencontext.org/properties/D7627CCA-5180-4D45-5953-3100251C65BF).
 
+(4) "EOL-primary-v2-1.csv", "EOL-primary-v2-2.csv", "EOL-primary-v2-3.csv", "EOL-primary-v2-4.csv" (Data in 4 files, smaller than GitHub filesize limits)
+This data represents an update of the EOL-primary data tables with new chronological information for Çatalhöyük Area TP and Menteşe Höyük animal bone records. [Updated May, 13, 2014]
+
+Nerissa Russell, Katheryn Twiss, Hijlke Buitenhuis, Sheelagh Frame, Lisa Yeomans, Louise Martin, Arek Marciniak, Kamilla Pawlowska, Claire Christensen, David Orton, Arzu Demirergi, Benjamin S. Arbuckle, Stephanie Meese, Levent Atıcı, Canan Çakırlar, Sarah Whitcher Kansa, Liz Henton, Banu Aydinuloglu, Alfred Galik, Adam Watson, Denise Carruthers, Ian Cameron, Rhian Mayon-White, Amanda Erwin, Vesna Dimitrijevic, Rebecca Daly, Nobs Symmons, Serkan Yeni, Chris Hills, Hijlke Buitenhuis, Leola Leblanc, Dusan Boric, Adrienne Powell (2014-05-12) "EOL Computational Data Challenge: Primary Zooarchaeology Dataset Version 2" Benjamin S. Arbuckle, David Orton, Hijlke Buitenhuis, Arek Marciniak, Levent Atici, Canan Çakırlar, Alfred Galik, Denise Carruthers, Lionel Gourichon, Daniel Helmer, Sarah Whitcher Kansa (Eds). Open Context. <http://opencontext.org/tables/314adedf882421055fc215a56ba7a79b> <http://dx.doi.org/10.6078/M7GQ6VPJ>
+
+(5) "EOL-metrics-v2.csv"
+This data represents an update of the EOL-metrics data table with new chronological information for Çatalhöyük Area TP and Menteşe Höyük animal bone records. [Updated May, 13, 2014]
+
+Benjamin S. Arbuckle, Hijlke Buitenhuis, Nerissa Russell, Sheelagh Frame, Sarah Whitcher Kansa, Katheryn Twiss, Levent Atıcı, David Orton, Louise Martin, Kamilla Pawlowska, Arzu Demirergi, Arek Marciniak, Canan Çakırlar, Lisa Yeomans, Claire Christensen, Alfred Galik, Liz Henton, Stephanie Meese, Adam Watson, Rebecca Daly, Serkan Yeni, Denise Carruthers, Rhian Mayon-White, Ian Cameron, Nobs Symmons, Banu Aydinuloglu, Hijlke Buitenhuis, Amanda Erwin, Vesna Dimitrijevic, Chris Hills, Dusan Boric, Adrienne Powell, Leola Leblanc (2014-05-12) "EOL Computational Data Challenge: Zooarchaeology Metrics Dataset Version 2" Benjamin S. Arbuckle, David Orton, Hijlke Buitenhuis, Levent Atici, Arek Marciniak, Canan Çakırlar, Alfred Galik, Lionel Gourichon, Daniel Helmer, Denise Carruthers, Sarah Whitcher Kansa (Eds). Open Context. <http://opencontext.org/tables/def8fb9c9d7fdc1993db45b7350ca955> <http://dx.doi.org/10.6078/M7BZ63Z6>
+
+
+
 Please see here for more about this project:
 http://alexandriaarchive.org/2012/09/25/aai-wins-eol-computable-data-challenge/

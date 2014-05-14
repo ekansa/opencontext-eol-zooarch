@@ -36,11 +36,20 @@ Nerissa Russell, Katheryn Twiss, Sheelagh Frame, Lisa Yeomans, Louise Martin, Cl
 (4) "catalhoyuk-areaTP-main.csv"
 Arek Marciniak, Kamilla Pawlowska, Nerissa Russell, Katheryn Twiss, Louise Martin, Liz Henton, David Orton, Arzu Demirergi, Banu Aydinuloglu, Rebecca Daly, Claire Christensen, Levent Atıcı, Ian Cameron, Sheelagh Frame (2013-08-17) "Çatalhöyük Area TP Main Zooarchaeological Dataset" Arek Marciniak (Eds). Open Context. <http://opencontext.org/tables/84332d5b790ecfbbf9a341273ea8d142> <http://dx.doi.org/10.6078/M7PK0D3R>
 
-(5) "catalhoyuk-areaTP-metrics.csv"
+"catalhoyuk-areaTP-main-secure.csv"
+Arek Marciniak, Nerissa Russell, Kamilla Pawlowska, Katheryn Twiss, Liz Henton, David Orton, Arzu Demirergi, Louise Martin, Banu Aydinuloglu, Claire Christensen, Ian Cameron, Sheelagh Frame, Rebecca Daly (2014-05-10) "Çatalhöyük Area TP Main Zooarchaeological Dataset (Secure contexts)" Arek Marciniak (Eds). Open Context. <http://opencontext.org/tables/a14b21ebf7e013675e8a5a872445be9e> <http://dx.doi.org/10.6078/M7VX0DF7>
+
+(5) "catalhoyuk-areaTP-metrics.csv" (all contexts)
 Arek Marciniak, Kamilla Pawlowska, Nerissa Russell, Katheryn Twiss, Louise Martin, Liz Henton, David Orton, Arzu Demirergi, Banu Aydinuloglu, Rebecca Daly, Claire Christensen, Levent Atıcı, Ian Cameron, Sheelagh Frame (2013-08-17) "Çatalhöyük Area TP Zooarchaeological Meaurements Dataset" Arek Marciniak (Eds). Open Context. <http://opencontext.org/tables/779b10958d06179acd16f3a85d74847a> <http://dx.doi.org/10.6078/M7F18WN2>
 
-(6) "catalhoyuk-areaTP-toothwear.csv"
+"catalhoyuk-areaTP-metrics-secure.csv" (filtered for relatively secure contexts)
+Arek Marciniak, Nerissa Russell, Kamilla Pawlowska, Katheryn Twiss, Liz Henton, David Orton, Arzu Demirergi, Louise Martin, Banu Aydinuloglu, Claire Christensen, Ian Cameron, Sheelagh Frame, Rebecca Daly (2014-05-10) "Çatalhöyük Area TP Zooarchaeological Meaurements Dataset (Secure contexts)" Arek Marciniak (Eds). Open Context. <http://opencontext.org/tables/7d788ea943bf4edeab10454923cf7595> <http://dx.doi.org/10.6078/M7R49NQ8>
+
+(6) "catalhoyuk-areaTP-toothwear.csv" (all contexts)
 Arek Marciniak, Kamilla Pawlowska, Nerissa Russell, Katheryn Twiss, Liz Henton, Louise Martin, David Orton, Arzu Demirergi, Banu Aydinuloglu, Claire Christensen, Rebecca Daly, Levent Atıcı, Sheelagh Frame, Ian Cameron (2013-08-17) "Çatalhöyük Area TP Zooarchaeological Tooth Wear / Aging Dataset" Arek Marciniak (Eds). Open Context. <http://opencontext.org/tables/3754500d16da4740c535afe2ad359304> <http://dx.doi.org/10.6078/M7JS9NCG>
+
+ "catalhoyuk-areaTP-toothwear-secure.csv" (filtered for relatively secure contexts)
+Arek Marciniak, Nerissa Russell, Kamilla Pawlowska, Katheryn Twiss, Liz Henton, David Orton, Arzu Demirergi, Louise Martin, Claire Christensen, Banu Aydinuloglu, Sheelagh Frame, Ian Cameron, Rebecca Daly (2014-05-10) "Çatalhöyük Area TP Zooarchaeological Tooth Wear / Aging Dataset (Secure contexts)" Arek Marciniak (Eds). Open Context. <http://opencontext.org/tables/c0d1e41ef6bcd383c011f08d5f747641> <http://10.6078/M70P0WX4>
 
 (7) "ilipinar.csv"
 Hijlke Buitenhuis (2013-08-17) "Ilıpınar Zooarchaeology Main Zooarchaeological Dataset" Hijlke Buitenhuis (Eds). Open Context. <http://opencontext.org/tables/3746e117f8bd3c648568cdd59d00272c> <http://dx.doi.org/10.6078/M72R3PM2>
@@ -68,6 +77,9 @@ Sarah Whitcher Kansa (2013-08-19) "Domuztepe EOL Computational Data Challenge Re
 
 (15) "pinarbasi.csv"
 Denise Carruthers (2013-08-19) "Pınarbaşı EOL Computational Data Challenge Revised Zooarchaeology Dataset" Denise Carruthers (Eds). Open Context. <http://opencontext.org/tables/2e995b59d5adf5b079fde6cea24b251d> <http://dx.doi.org/10.6078/M7X34VD1>
+
+(16) "mentese.csv"
+Lionel Gourichon (2014-05-10) "Neolithic Menteşe Faunal Data Table" Lionel Gourichon, Daniel Helmer (Eds). Open Context. <http://opencontext.org/tables/2d7ed24fb9bfce0b7085983d55930dc3> <http://dx.doi.org/10.6078/M7MG7MD8>
 
 Please see here for more about this project:
 http://alexandriaarchive.org/2012/09/25/aai-wins-eol-computable-data-challenge/
